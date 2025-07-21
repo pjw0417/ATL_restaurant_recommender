@@ -1,12 +1,7 @@
-# Summer Project BrainStorming 
+# Atlanta Restaurant Recommender
 
 ## Potential Topics to explore
 - finding restaurants in a city based on user preferences is picky
-- Building NLP agent tailored for different companies is difficult 
-- NLP agent tailored for myself like Siri
-
-
-
 
 ## Problem Statement
 
@@ -17,11 +12,7 @@ https://www.kaggle.com/datasets/grohith/atlanta-restaurant-reviews?select=datase
 
 
 ## Approach
-
-## Evaluation Metrics
-
-## Output
-
+Utilize open source Llama 3 and implement RAG and prompt engineering 
 ## Timeline
 
 | Week | Goal |
