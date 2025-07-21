@@ -13,17 +13,5 @@ https://www.kaggle.com/datasets/grohith/atlanta-restaurant-reviews?select=datase
 
 ## Approach
 Utilize open source Llama 3 and implement RAG and prompt engineering 
-## Timeline
-
-| Week | Goal |
-|------|------|
-| Week 1 | Define scope, collect data |
-| Week 1 | Preprocessing, EDA |
-| Week 2 | Build baseline model |
-| Week 2 | Train + evaluate deep model |
-| Week 3 | Visualizations + documentation |
-| Week 3 | Optional deployment / write blog post |
-
----
 
 ## References
