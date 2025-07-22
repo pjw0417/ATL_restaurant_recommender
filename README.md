@@ -12,14 +12,14 @@ https://www.kaggle.com/datasets/grohith/atlanta-restaurant-reviews?select=datase
 Utilize open source Llama 3 and implement RAG and prompt engineering 
 
 ## References
-[1] Hai-Dang Kieu, Minh Duc Nguyen, Thanh-Son Nguyen, and Dung D. Le. Keyword-driven retrieval-augmented large language models for cold-start user recommendations. arXiv preprint arXiv:2405.19612, 2024. 2, 4
+[1] Hai-Dang Kieu, Minh Duc Nguyen, Thanh-Son Nguyen, and Dung D. Le. Keyword-driven retrieval-augmented large language models for cold-start user recommendations. arXiv preprint arXiv:2405.19612, 2024. 
 
-[2] Ali Rostami. An integrated framework for contextual personalized LLM-based food recommendation. arXiv preprint arXiv:2504.20092, 2025. 2
+[2] Ali Rostami. An integrated framework for contextual personalized LLM-based food recommendation. arXiv preprint arXiv:2504.20092, 2025.
 
-[3] Ali Rostami, Ramesh Jain, and Amir M. Rahmani. Food recommendation as language processing (F-RLP): A personalized and contextual paradigm. arXiv preprint arXiv:2402.07477, 2024. 2, 3
+[3] Ali Rostami, Ramesh Jain, and Amir M. Rahmani. Food recommendation as language processing (F-RLP): A personalized and contextual paradigm. arXiv preprint arXiv:2402.07477, 2024. 
 
-[4] Vahid Azizi and Fatemeh Koochaki. LlamaRec-LKG-RAG: A single-pass, learnable knowledge graph-RAG framework for LLM-based ranking. arXiv preprint arXiv:2506.07449, 2025. 2, 4
+[4] Vahid Azizi and Fatemeh Koochaki. LlamaRec-LKG-RAG: A single-pass, learnable knowledge graph-RAG framework for LLM-based ranking. arXiv preprint arXiv:2506.07449, 2025. 
 
-[5] Sadhana D. End-to-end RAG based restaurant recommendation system with LLM, Elasticsearch, LlamaIndex. Medium, January 2025. https://medium.com/@sadhansd02/end-to-end-rag-based-restaurant-recommendation-system-with-llm-elasticsearch-llamaindex-2a73ad1d3aed. 2
+[5] Sadhana D. End-to-end RAG based restaurant recommendation system with LLM, Elasticsearch, LlamaIndex. Medium, January 2025. https://medium.com/@sadhansd02/end-to-end-rag-based-restaurant-recommendation-system-with-llm-elasticsearch-llamaindex-2a73ad1d3aed. 
 
-[6] Nouamane El Gueddari. Building a RAG-based restaurant recommendation system with LLMs and LangChain — Part 1. Medium, November 2024. https://medium.com/@ElGueddari/building-a-rag-based-restaurant-recommendation-system-with-llms-and-langchain-part-1-1e88e860f874. 2
+[6] Nouamane El Gueddari. Building a RAG-based restaurant recommendation system with LLMs and LangChain — Part 1. Medium, November 2024. https://medium.com/@ElGueddari/building-a-rag-based-restaurant-recommendation-system-with-llms-and-langchain-part-1-1e88e860f874. 
