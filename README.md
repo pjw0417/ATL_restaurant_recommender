@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/grohith/atlanta-restaurant-reviews?select=datase
 
 
 ## Approach
-Utilize open source Llama 3 and implement RAG and prompt engineering 
+Utilize open source Llama 3 and implement RAG along with prompt engineering 
 
 ## References
 [1] Hai-Dang Kieu, Minh Duc Nguyen, Thanh-Son Nguyen, and Dung D. Le. Keyword-driven retrieval-augmented large language models for cold-start user recommendations. arXiv preprint arXiv:2405.19612, 2024. 
